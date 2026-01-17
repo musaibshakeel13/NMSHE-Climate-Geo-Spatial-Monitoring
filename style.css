@@ -1,0 +1,38 @@
+*{
+  color: white;
+}
+body{
+  
+  background-color: rgb(181, 181, 214);
+}
+#navbar{
+  height: 60px;
+  background-color: #0f1111;
+ 
+  
+}
+#amazon{
+  color: #f08804;
+  
+
+}
+button{
+  background-color: #f08804;
+}
+a{
+  margin-right: 200px;
+  font-size: 25px;
+}
+.myclass{
+ height: 100px;
+ width: 100px;
+ border: 2px solid black;
+ display: inline-block;
+}
+#divs{
+  height: 1000px; ;
+}
+footer{
+  background-color: #0f1111;
+  text-align: center;
+}
